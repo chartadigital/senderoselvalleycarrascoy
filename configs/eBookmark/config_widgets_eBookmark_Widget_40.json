@@ -1,0 +1,290 @@
+{
+  "addbookmarks": true,
+  "bookmarks": [
+    {
+      "name": "Senderos agrupados por sectores",
+      "items": [
+        {
+          "name": "Majal Blanco",
+          "extent": {
+            "xmin": -139890.26488897981,
+            "ymin": 4558979.195144308,
+            "xmax": -128806.89578764419,
+            "ymax": 4566622.897972816,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "Puerto de La Cadena",
+          "extent": {
+            "xmin": -130784.70389451344,
+            "ymin": 4563732.6228407845,
+            "xmax": -125243.01934384562,
+            "ymax": 4567554.474255038,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "Vertiente Norte El Valle",
+          "extent": {
+            "xmin": -128864.223558858,
+            "ymin": 4565648.3258621795,
+            "xmax": -117780.85445752236,
+            "ymax": 4573292.028690687,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "Vertiente Sur El Valle",
+          "extent": {
+            "xmin": -127507.46630679794,
+            "ymin": 4560775.465309006,
+            "xmax": -116424.09720546233,
+            "ymax": 4568419.168137514,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        }
+      ],
+      "expanded": true
+    },
+    {
+      "name": "Senderos agrupados por nombre",
+      "items": [
+        {
+          "name": "SL-MU 7",
+          "extent": {
+            "xmin": -127543.29616383136,
+            "ymin": 4568677.1431079665,
+            "xmax": -124772.45388842073,
+            "ymax": 4570588.068815147,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "SL-MU 15",
+          "extent": {
+            "xmin": -137337.77581963476,
+            "ymin": 4562274.529117253,
+            "xmax": -134566.9335442241,
+            "ymax": 4564185.454824433,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "PR-MU 21",
+          "extent": {
+            "xmin": -128806.8957876442,
+            "ymin": 4565438.124034395,
+            "xmax": -117723.52668630859,
+            "ymax": 4573081.826862903,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "PR-MU 21.1",
+          "extent": {
+            "xmin": -126920.16313137008,
+            "ymin": 4568055.763188191,
+            "xmax": -125534.74199366475,
+            "ymax": 4569011.226041781,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "PR-MU 22",
+          "extent": {
+            "xmin": -127949.67435606818,
+            "ymin": 4566553.297850976,
+            "xmax": -122407.98980540036,
+            "ymax": 4570375.14926523,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "PR-MU 22.1",
+          "extent": {
+            "xmin": -125778.38502137251,
+            "ymin": 4569352.804011898,
+            "xmax": -124392.96388366718,
+            "ymax": 4570308.266865488,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "PR-MU 23",
+          "extent": {
+            "xmin": -132583.66919584677,
+            "ymin": 4557853.808569265,
+            "xmax": -110416.93099317553,
+            "ymax": 4573141.2142262785,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "PR-MU 23.1",
+          "extent": {
+            "xmin": -127347.73275831925,
+            "ymin": 4559745.625019319,
+            "xmax": -116264.36365698362,
+            "ymax": 4567389.327847827,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "PR-MU 34",
+          "extent": {
+            "xmin": -136133.21369683475,
+            "ymin": 4561226.592442342,
+            "xmax": -130591.52914616693,
+            "ymax": 4565048.443856596,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "PR-MU 35",
+          "extent": {
+            "xmin": -136948.69908696803,
+            "ymin": 4561698.828879986,
+            "xmax": -134177.85681155737,
+            "ymax": 4563609.754587166,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "PR-MU 49",
+          "extent": {
+            "xmin": -122944.93092822506,
+            "ymin": 4570210.838655278,
+            "xmax": -117403.24637755724,
+            "ymax": 4574032.690069532,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "PR-MU 50",
+          "extent": {
+            "xmin": -122579.97311906294,
+            "ymin": 4571247.009119088,
+            "xmax": -121194.55198135761,
+            "ymax": 4572202.471972678,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "PR-MU 52",
+          "extent": {
+            "xmin": -139529.8841412528,
+            "ymin": 4561990.962725194,
+            "xmax": -133988.199590585,
+            "ymax": 4565812.814139448,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "PR-MU 53",
+          "extent": {
+            "xmin": -136940.57980812556,
+            "ymin": 4563063.864816715,
+            "xmax": -134169.7375327149,
+            "ymax": 4564974.790523895,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "PR-MU 54",
+          "extent": {
+            "xmin": -130083.6918751552,
+            "ymin": 4564857.351285874,
+            "xmax": -127312.84959974457,
+            "ymax": 4566768.276993054,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "PR-MU 55",
+          "extent": {
+            "xmin": -135519.9993610119,
+            "ymin": 4560859.190682027,
+            "xmax": -132749.15708560124,
+            "ymax": 4562770.116389207,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        },
+        {
+          "name": "GR-250 (tramo)",
+          "extent": {
+            "xmin": -130863.83605943264,
+            "ymin": 4563624.804204787,
+            "xmax": -119780.46695809701,
+            "ymax": 4571268.507033295,
+            "spatialReference": {
+              "wkid": 102100
+            }
+          },
+          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+        }
+      ],
+      "expanded": true
+    }
+  ]
+}

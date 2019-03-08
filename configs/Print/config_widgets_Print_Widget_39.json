@@ -1,0 +1,9 @@
+{
+  "serviceURL": "https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
+  "defaultTitle": "Red de Senderos del Parque Regional El Valle y Carrascoy",
+  "defaultAuthor": "Charta Digital",
+  "defaultCopyright": "Charta Digital ©",
+  "defaultFormat": "PDF",
+  "defaultLayout": "MAP_ONLY",
+  "copyrightEditable": false
+}

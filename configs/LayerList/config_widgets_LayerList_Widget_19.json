@@ -1,0 +1,72 @@
+{
+  "showTitle": true,
+  "showBasemap": false,
+  "showLegend": true,
+  "expandAllLayersByDefault": false,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "SetVisibilityRange": true,
+    "EnableOrDisablePopup": true,
+    "ControlLabels": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "Senderos_3864": {
+      "display": true
+    },
+    "Senderos_1378": {
+      "display": true
+    },
+    "Senderos_5455": {
+      "display": true
+    },
+    "Senderos_7304": {
+      "display": true
+    },
+    "Senderos_2172": {
+      "display": true
+    },
+    "Senderos_146": {
+      "display": true
+    },
+    "Senderos_4911": {
+      "display": true
+    },
+    "Senderos_5617": {
+      "display": true
+    },
+    "Senderos_3899": {
+      "display": true
+    },
+    "Senderos_5029": {
+      "display": true
+    },
+    "Senderos_5923": {
+      "display": true
+    },
+    "Senderos_3761": {
+      "display": true
+    },
+    "Senderos_4466": {
+      "display": true
+    },
+    "Senderos_2375": {
+      "display": true
+    },
+    "Senderos_2248": {
+      "display": true
+    },
+    "Senderos_3245": {
+      "display": true
+    },
+    "Senderos_4151": {
+      "display": true
+    },
+    "Limite_Parque_shapefile_9463_0": {
+      "display": true
+    }
+  }
+}
