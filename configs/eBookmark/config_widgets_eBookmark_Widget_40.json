@@ -15,7 +15,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "${appPath}/configs/eBookmark/puertocadena.png"
+          "thumbnail": "${appPath}/configs/eBookmark/majalblanco.png"
         },
         {
           "name": "Puerto de La Cadena",
@@ -28,7 +28,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/puertocadena.png"
         },
         {
           "name": "Vertiente Norte El Valle",
@@ -41,7 +41,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/crestagallo.png"
         },
         {
           "name": "Vertiente Sur El Valle",
@@ -54,7 +54,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/kingkong.png"
         }
       ],
       "expanded": true
@@ -73,7 +73,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/SL.png"
         },
         {
           "name": "SL-MU 15",
@@ -86,7 +86,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/SL.png"
         },
         {
           "name": "PR-MU 21",
@@ -99,7 +99,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/PR.png"
         },
         {
           "name": "PR-MU 21.1",
@@ -112,7 +112,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/PR.png"
         },
         {
           "name": "PR-MU 22",
@@ -125,7 +125,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/PR.png"
         },
         {
           "name": "PR-MU 22.1",
@@ -138,7 +138,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/PR.png"
         },
         {
           "name": "PR-MU 23",
@@ -151,7 +151,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/PR.png"
         },
         {
           "name": "PR-MU 23.1",
@@ -164,7 +164,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/PR.png"
         },
         {
           "name": "PR-MU 34",
@@ -177,7 +177,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/PR.png"
         },
         {
           "name": "PR-MU 35",
@@ -190,7 +190,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/PR.png"
         },
         {
           "name": "PR-MU 49",
@@ -203,7 +203,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/PR.png"
         },
         {
           "name": "PR-MU 50",
@@ -216,7 +216,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/PR.png"
         },
         {
           "name": "PR-MU 52",
@@ -229,7 +229,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/PR.png"
         },
         {
           "name": "PR-MU 53",
@@ -242,7 +242,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/PR.png"
         },
         {
           "name": "PR-MU 54",
@@ -255,7 +255,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/PR.png"
         },
         {
           "name": "PR-MU 55",
@@ -268,7 +268,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/PR.png"
         },
         {
           "name": "GR-250 (tramo)",
@@ -281,7 +281,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "/webappbuilder/apps/15/widgets/eBookmark/images/thumbnail_default.png"
+          "thumbnail": "${appPath}/configs/eBookmark/GR.png"
         }
       ],
       "expanded": true
