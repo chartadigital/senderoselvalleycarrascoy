@@ -15,7 +15,7 @@
               "wkid": 102100
             }
           },
-          "thumbnail": "senderoselvalleycarrascoy/widgets/eBookmark/images/majalblanco.png"
+          "thumbnail": "${appPath}/configs/eBookmark/puertocadena.png"
         },
         {
           "name": "Puerto de La Cadena",
